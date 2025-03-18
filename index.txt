@@ -1,0 +1,12 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Strona klasy 1A</title>
+</head>
+<body>
+
+<h1>To jest strona Klasy 1A</h1>
+<p>Najlepsza klasa w liceum</p>
+
+</body>
+</html>
